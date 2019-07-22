@@ -4,6 +4,7 @@
 # Encript Python
 # Encript Python2
 # Encript Python3
+# Encript Python2 (pyc)
 
 # Install:
 # $ pkg install git
